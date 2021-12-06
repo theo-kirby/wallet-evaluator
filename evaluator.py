@@ -13,8 +13,6 @@ address = ''
 
 def get_stake(a):
 
-#headers
-    header = {'project_id': 'mainnetDVAXiBS4qAfGqQwNfPtzFyvzVOsWOj0a'}
 #addresses
     addy = a
 #endpoint
